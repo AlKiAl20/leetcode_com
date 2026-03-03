@@ -28,6 +28,7 @@ https://leetcode.com/problems/design-hashset/description/
   
   - [175. Combine Two Tables](https://github.com/AlexKir102099/leetcode_com/tree/main/175.%20Combine%20Two%20Tables)
   - [1068. Product Sales Analysis I](https://github.com/AlexKir102099/leetcode_com/tree/main/1068.%20Product%20Sales%20Analysis%20I)
+  - [181. Employees Earning More Than Their Managers](https://github.com/AlexKir102099/leetcode_com/tree/main/181.%20Employees%20Earning%20More%20Than%20Their%20Managers)
     
 </details>  
 
