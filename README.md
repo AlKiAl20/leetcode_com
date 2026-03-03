@@ -11,7 +11,13 @@ https://leetcode.com/problems/design-hashset/description/
 Посчитать количество пользователей (предположительно роботов), которые за последние 5 минут сгенерировали >= 1000 событий (нажали на красную кнопку >= 1000 раз).
 Необходимо реализовать структуру данных, умеющую эффективно обрабатывать данные запросы.
 
-
+<details>  
+<summary>  SQL </summary>
+<details>  
+<summary>  JOIN </summary>
+  - [1068. Product Sales Analysis I](https://github.com/AlexKir102099/leetcode_com/tree/main/1068.%20Product%20Sales%20Analysis%20I)
+</details>  
+</details>
 
 <details>  
 <summary>  Ozon </summary>
