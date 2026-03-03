@@ -15,6 +15,13 @@ https://leetcode.com/problems/design-hashset/description/
 <summary>  SQL </summary>
 
 <details>  
+<summary>  DML </summary>
+  
+- [627. Swap Sex of Employees](https://github.com/AlexKir102099/leetcode_com/tree/main/627.%20Swap%20Sex%20of%20Employees)
+  
+</details>  
+
+<details>  
 <summary>  Aggregate function </summary>
   
 - [1050. Actors and Directors Who Cooperated At Least Three Times](https://github.com/AlexKir102099/leetcode_com/tree/main/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times)
