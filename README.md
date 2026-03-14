@@ -2,6 +2,7 @@ https://leetcode.com/problems/design-hashmap/description/
 
 https://leetcode.com/problems/design-hashset/description/
 
+https://old.postypashki.ru/алгоритмы/
 
 1 надо найти наибольшую возрастающую или убывающую подпоследовательность в массиве (мы считаем непрерывно)
 
