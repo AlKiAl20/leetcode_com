@@ -292,6 +292,8 @@ https://old.postypashki.ru/алгоритмы/
 
 </details>
 
+-------------
+
 <details>  
 <summary>NSum</summary>    
 
@@ -346,6 +348,39 @@ https://old.postypashki.ru/алгоритмы/
   - [Minimum Product of Two Elements in an Array](https://github.com/AlKiAl/leetcode_com/tree/main/Minimum%20Product%20of%20Two%20Elements%20in%20an%20Array) -- min({min1 * max1, min1 * min2, max1 * max2}) : $n \in Z$
 
 </details>
+
+
+<details>  
+<summary>Math</summary>      
+
+- [169. Majority Element](https://github.com/SkosMartren/leetcode_com/tree/main/169.%20Majority%20Element) -- The majority element is the element that appears more than ⌊n / 2⌋ times.  
+- [204. Count Primes](https://github.com/SkosMartren/leetcode_com/tree/main/204.%20Count%20Primes) -- количество простых чисел. Реализация Решето Эратосфена
+- [279. Perfect Squares](https://github.com/SkosMartren/leetcode_com/tree/main/279.%20Perfect%20Squares) -- Теорема Лагранжа о сумме четырёх квадратов (n = x^{2}+y^{2}+z^{2}+t^{2}) + Теорема Лежандра о трёх квадратах (n = x^{2}+y^{2}+z^{2} <-> n НЕ ПРЕДСТАВИМО в виде n=4^{a}(8b+7)) or Dynamic programming  
+
+---
+
+- [150. Evaluate Reverse Polish Notation](https://github.com/SkosMartren/leetcode_com/tree/main/150.%20Evaluate%20Reverse%20Polish%20Notation) -- un_map<string, function<int (int, int)> > OperatorToFuctor + Stack
+- [227. Basic Calculator II](https://github.com/AlKiAl/leetcode_com/tree/main/227.%20Basic%20Calculator%20II) -- 's' must consist of values in ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '+', '-', '*', '/', ' '] only. 
+
+---
+
+- [7. Reverse Integer](https://github.com/SkosMartren/leetcode_com/tree/main/7.%20Reverse%20Integer)  
+- [9. Palindrome Number](https://github.com/SkosMartren/leetcode_com/tree/main/9.%20Palindrome%20Number)  
+
+---
+
+- [12. Integer to Roman](https://github.com/SkosMartren/leetcode_com/tree/main/12.%20Integer%20to%20Roman)  
+- [13. Roman to Integer](https://github.com/SkosMartren/leetcode_com/tree/main/13.%20Roman%20to%20Integer)  
+
+---
+
+  - [43. Multiply Strings](https://github.com/SkosMartren/leetcode_com/tree/main/43.%20Multiply%20Strings)  
+  - [415. Add Strings](https://github.com/SkosMartren/leetcode_com/tree/main/415.%20Add%20Strings)  
+
+</details>
+
+
+------------
 
 <details>  
 <summary>Hash table (Line Reflection + check path crosses itself at any point)</summary>    
@@ -416,34 +451,7 @@ https://old.postypashki.ru/алгоритмы/
   
 ---------------------------------------------------------------------------------------------------
 
-<details>  
-<summary>Math</summary>      
 
-- [169. Majority Element](https://github.com/SkosMartren/leetcode_com/tree/main/169.%20Majority%20Element) -- The majority element is the element that appears more than ⌊n / 2⌋ times.  
-- [204. Count Primes](https://github.com/SkosMartren/leetcode_com/tree/main/204.%20Count%20Primes) -- количество простых чисел. Реализация Решето Эратосфена
-- [279. Perfect Squares](https://github.com/SkosMartren/leetcode_com/tree/main/279.%20Perfect%20Squares) -- Теорема Лагранжа о сумме четырёх квадратов (n = x^{2}+y^{2}+z^{2}+t^{2}) + Теорема Лежандра о трёх квадратах (n = x^{2}+y^{2}+z^{2} <-> n НЕ ПРЕДСТАВИМО в виде n=4^{a}(8b+7)) or Dynamic programming  
-
----
-
-- [150. Evaluate Reverse Polish Notation](https://github.com/SkosMartren/leetcode_com/tree/main/150.%20Evaluate%20Reverse%20Polish%20Notation) -- un_map<string, function<int (int, int)> > OperatorToFuctor + Stack
-- [227. Basic Calculator II](https://github.com/AlKiAl/leetcode_com/tree/main/227.%20Basic%20Calculator%20II) -- 's' must consist of values in ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '+', '-', '*', '/', ' '] only. 
-
----
-
-- [7. Reverse Integer](https://github.com/SkosMartren/leetcode_com/tree/main/7.%20Reverse%20Integer)  
-- [9. Palindrome Number](https://github.com/SkosMartren/leetcode_com/tree/main/9.%20Palindrome%20Number)  
-
----
-
-- [12. Integer to Roman](https://github.com/SkosMartren/leetcode_com/tree/main/12.%20Integer%20to%20Roman)  
-- [13. Roman to Integer](https://github.com/SkosMartren/leetcode_com/tree/main/13.%20Roman%20to%20Integer)  
-
----
-
-  - [43. Multiply Strings](https://github.com/SkosMartren/leetcode_com/tree/main/43.%20Multiply%20Strings)  
-  - [415. Add Strings](https://github.com/SkosMartren/leetcode_com/tree/main/415.%20Add%20Strings)  
-
-</details>
 
 <details>  
 <summary>Operations on sets [Arrays (Intersection + Difference) + Intervals (Intersections + Merge + Insert + Non-overlapping Intervals) --> scan line]</summary>
