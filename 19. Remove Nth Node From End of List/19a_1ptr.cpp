@@ -30,7 +30,7 @@ public:
     assert(len > n); 
     ListNode* p = head;
 
-    for (int i = 0; i < len - n - 1; i++) {
+    for (int i = 0; i < len - n - 1; i++) { // -1 ввиду того, чтобы указатель был перед элементом, который надо удалить
       p = p->next;
     }
 
