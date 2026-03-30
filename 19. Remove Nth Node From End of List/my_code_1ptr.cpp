@@ -34,6 +34,7 @@ public:
         assert(n < Len);
 
         Buffer = head;
+        // // -1 ввиду того, чтобы указатель был перед элементом, который надо удалить
         for(int i = 0; i < Len - n - 1; ++i){ // условие выхода из цикла можно прочуст-ь на примере "Ex 1 for alg 1."
             Buffer = Buffer->next;
         } // Buffer == prev(Garbage)
